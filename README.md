@@ -1,5 +1,5 @@
 # JAVA_DOCS
-#### OOP - (https://github.com/Adnise/ZTH-POO.git)
+#### [OOP](https://github.com/Adnise/ZTH-POO.git)
 #### Maven - https://github.com/Adnise/ZTH-Maven.git
 #### Collections Workshop 1 - https://github.com/Adnise/ZTH-Collections-Workshop-1
 #### Collections Workshop 2 - https://github.com/Adnise/ZTH-Collections-Workshop-2
